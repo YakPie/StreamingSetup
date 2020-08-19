@@ -38,3 +38,4 @@ brew_cask_check_if_installed obs
 
 brew tap homebrew/cask-drivers
 brew_cask_check_if_installed elgato-game-capture-hd
+brew_cask_check_if_installed elgato-control-center
